@@ -7,7 +7,7 @@
     omit-xml-declaration="yes"/>
 <xsl:template match="/">
   <div>        
-                onerror=alert(document.cookie)
+                alert(document.cookie)
   </div>
 </xsl:template>
 </xsl:stylesheet>
