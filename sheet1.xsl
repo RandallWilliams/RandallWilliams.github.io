@@ -7,7 +7,7 @@
     omit-xml-declaration="yes"/>
 <xsl:template match="/">
   <div>        
-                <img src=x onerror=alert(document.cookie)/>
+                onerror=alert(document.cookie)
   </div>
 </xsl:template>
 </xsl:stylesheet>
