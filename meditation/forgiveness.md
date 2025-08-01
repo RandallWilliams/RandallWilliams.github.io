@@ -1,4 +1,4 @@
-Forgiveness Meditation
+Forgiveness Meditation: As offered by Chinyere at Recovery Dharma Global Summit 2025
 
 🕯️ Opening – Entering the Sacred Space Within
  
